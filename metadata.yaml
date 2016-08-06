@@ -1,0 +1,32 @@
+_repo: A-History-of-Freedom-of-Thought_10684
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bury, J. B. (John Bagnell)
+    alias: Bury, John Bagnell
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '1506'
+    url: http://www.gutenberg.org/2009/agents/1506
+    wikipedia: http://en.wikipedia.org/wiki/J._B._Bury
+description: Freedom of thought, in any valuable sense, includes freedom of speech."
+  So writes J. B. Bury in the introduction to this history of the struggle for intellectual
+  freedom. This classic work examines the history of freedom of expression from ancient
+  Greece through the nineteenth century, noting key movements in history such as the
+  Age of Reason and individuals like J. S. Mill who championed freedom of thought.
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Home University Library of Modern Knowledge, No. 69
+subjects:
+- !lcc 'BL'
+- !lcsh 'Free thought -- History'
+- !lcsh 'Rationalism -- History'
+- GITenberg
+title: A History of Freedom of Thought
+url: http://www.gutenberg.org/ebooks/10684
