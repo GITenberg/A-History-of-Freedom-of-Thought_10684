@@ -1,5 +1,8 @@
 _repo: A-History-of-Freedom-of-Thought_10684
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bury, J. B. (John Bagnell)
@@ -14,6 +17,8 @@ description: Freedom of thought, in any valuable sense, includes freedom of spee
   freedom. This classic work examines the history of freedom of expression from ancient
   Greece through the nineteenth century, noting key movements in history such as the
   Age of Reason and individuals like J. S. Mill who championed freedom of thought.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10684#A-History-of-Freedom-of-Thought
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
